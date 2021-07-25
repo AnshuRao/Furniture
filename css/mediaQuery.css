@@ -1,0 +1,292 @@
+@media only screen and (max-width:1190px){
+    .wrapper-carousel .left-carousel{
+        width: 40%;
+    }
+    .wrapper-carousel .right-detail{
+        width: 60%;
+        padding-top: 40px;
+    }
+    .wrapper-carousel .right-detail h1{
+        font-size: 4rem;
+        letter-spacing: 2px;
+    }
+    .wrapper-carousel .right-detail p{
+        font-size: 1.2rem;
+    }
+    .ceo-carousel{
+        width: 55%;
+    }
+}
+@media only screen and (max-width:990px){
+    .menu-nav{
+        width: 65%;
+    }
+    .wrapper-2 .furniture{
+        width: 95%;
+        margin: 15px auto;
+    }
+    .wrapper-3{
+        padding-top: 0;
+    }
+    .selection-tabel{
+        width: 80%;
+        margin: 30px auto;
+    }
+    .collection-carousel{
+        width: 100%;
+    }
+    .service-box1{
+        width: 80%;
+        margin: 0 auto;
+    }
+    .service-box2{
+        padding-top: 10px;
+    }
+    .wrapper-4-BG .sevices-text p{
+        width: 70%;
+    }
+    .service-image{
+        width: 80%;
+        margin: 25px auto;
+    }
+    .service-two-parts .service-details{
+        width: 80%;
+        margin: 15px auto;
+    }
+    .showcase p{
+        width: 80%;
+        margin-top: 25px;
+    }
+    .wrapper-6-BG .our-team-text p{
+        width: 65%;
+    }
+    .member{
+        width: 45%;
+        margin-bottom: 15px;
+    }
+
+    .ceo-carousel{
+        width: 65%;
+    }
+    .wrapper-8 .blog-text p{
+        width: 80%;
+    }
+    .blog-box{
+        width: 45%;
+        margin: 15px auto;
+    }
+    .contact-info{
+        width: 100%;
+    }
+    .contact-form{
+        width: 100%;
+    }
+    .footer-part table{
+        width: 30%;
+    }
+}
+@media only screen and (max-width:900px){
+    .menu-nav{
+        display: none;
+    }
+    .menu-trigger{
+     visibility: visible;
+    }
+}
+@media only screen and (min-width:900px){
+    #menu1{
+      visibility: hidden !important;
+    }
+}
+@media only screen and (max-width:950px){
+    .wrapper-carousel .left-carousel{
+       display: none !important;
+    }
+    .wrapper-carousel .right-detail{
+        width: 100%;
+        margin: 0 auto;
+    }
+    .wrapper-carousel .right-detail p{
+        width: 70%;
+    }
+    .wrapper-carousel .off{
+        left: 18%;
+        display: none;
+    }
+    .wrapper-carousel .right-detail h1{
+        font-size: 3rem;
+        letter-spacing: 3px;
+    }
+    .wrapper-carousel .right-detail h1 span::before{
+        bottom: 8px !important;
+    }
+    .wrapper-carousel .right-detail{
+        padding-top: 20px;
+        
+    }
+    .showcase{
+        padding-top: 0px;
+    }
+}
+@media only screen and (max-width:750px){
+    .blog-box{
+        width: 80%;
+        margin: 15px auto;
+    }
+    .blog-box table{
+        width: 100%;
+    }
+    .ceo-carousel{
+        bottom: -90px;
+    }
+    .wrapper-8{
+        padding-bottom: 25px;
+        padding-top: 120px;
+    }
+}
+@media only screen and (max-width:698px){
+    html{
+        font-size: 12px;
+    }
+    .wrapper-carousel .right-detail{
+        padding-left: 50px;
+    }
+    .ceo-carousel{
+        bottom: -50px;
+    }
+    .wrapper-6-BG{
+        padding-top: 50px;
+    }
+    .wrapper-8{
+        padding-top: 25px;
+    }
+    .wrapper-carousel .right-detail{
+        padding-bottom: 50px;
+    }
+    .wrapper-2{
+        padding-top: 100px;
+    }
+   
+}
+@media only screen and (max-width:570px){
+    .testimonial p{
+        font-size: 1.5rem;
+    }
+    .ceo-carousel{
+        width: 75%;
+    }
+    .selection-tabel {
+        width: 65%;
+    }
+    .selection-tabel .tabel-head{
+        font-size: 1.2rem;
+    }
+    .footer-part table{
+        width: 45%;
+    }
+    .footer-2 , .footer-4{
+        text-align: right;
+    }
+    .footer-3{
+        width: 30% !important;
+    }
+    .contact-form .form_till_570{
+        display: none;
+    }
+    .contact-form .form_under_570{
+        display: inline-block;
+    }
+    .contact-form .contact-btn1{
+        display: inline-block;
+    }
+
+
+
+}
+@media only screen and (max-width:540px){
+    .wrapper-carousel .right-detail h1{
+        font-size: 2rem;
+    }
+    .wrapper-carousel .right-detail{
+        padding-left: 50px;
+    }
+    .wrapper-carousel .right-detail p{
+        width: 95%;
+    }
+    .wrapper-4-BG .sevices-text p{
+        width: 85%;
+    }
+    .showcase p{
+        width: 95%;
+        font-size: 1.1rem;
+    }
+    .wrapper-6-BG .our-team-text p{
+        width: 90%;
+    }
+    .footer-part table{
+        width: 45%;
+    }
+    .selection-tabel{
+        height: 100px !important;
+        
+    }
+    .footer-part table{
+        width: 55% !important;
+        margin: 0 auto;
+        text-align: center;
+    }
+    .discount-text h1{
+        font-size: 1.3rem;
+    }
+    .furniture .discount-text{
+        left: 10px;
+    }
+  
+    .wrapper-carousel .right-detail h1 span::before{
+        bottom: 2px !important;
+    }
+
+    #home .owl-theme .owl-nav.disabled + .owl-dots{
+       
+        top: -60px;
+        right: 20px;
+    }
+
+
+
+
+}
+@media only screen and (max-width:450px){
+    .member{
+        width: 85%;
+        margin: 15px auto;
+    }
+    .discount-text h1{
+        font-size: 1.1rem;
+    }
+    .wrapper-carousel .right-detail{
+        padding-left: 25px;
+    }
+    .wrapper-carousel .right-detail p{
+        width: 100%;
+    }
+    .ceo-carousel{
+        width: 85%;
+    }
+   
+}
+@media only screen and (max-width:350px){
+    .testimonial p{
+        font-size: 1.2rem;
+    }
+    .wrapper-9-BG .get-headng{
+        font-size: 3rem;
+    }
+    .contact-info table h3{
+        font-size: 1.1rem;
+    }
+    .selection-tabel .tabel-head{
+        font-size: 1.1rem !important;
+    }
+
+}
